@@ -11,7 +11,7 @@
 </p>
 <h3 align="center">My accepted leetcode solutions</h3>
 <p align="center">
-  <b>Last updated: 2022/03/31 0:21</b>
+  <b>Last updated: 2022/03/31 0:23</b>
   <br>
 </p>
 
